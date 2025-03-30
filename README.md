@@ -20,9 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/MUHAMMEDSHAHIL07/Leetcode/tree/master/0066-plus-one) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MUHAMMEDSHAHIL07/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Simulation
 |  |
 | ------- |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MUHAMMEDSHAHIL07/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/MUHAMMEDSHAHIL07/Leetcode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
