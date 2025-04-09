@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/MUHAMMEDSHAHIL07/Leetcode/tree/master/0066-plus-one) |
+| [0371-sum-of-two-integers](https://github.com/MUHAMMEDSHAHIL07/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## Matrix
 |  |
 | ------- |
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2756-buy-two-chocolates](https://github.com/MUHAMMEDSHAHIL07/Leetcode/tree/master/2756-buy-two-chocolates) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/MUHAMMEDSHAHIL07/Leetcode/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
